@@ -1,4 +1,4 @@
-https://lensheng123-jpg.github.io/social-network-analysis/
+https://lensheng123-jpg.github.io/social-network-analysis/network_interactive.html
 # Social Network Analysis – Personal Communication Network
 
 ## Project Overview
