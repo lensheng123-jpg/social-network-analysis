@@ -19,7 +19,7 @@ This project analyzes a personal communication network (14 people, 25 interactio
 - **Nodes**: People (anonymized roles)
 - **Edges**: Communication events (calls/messages) over one month
 - **Weight**: Interaction frequency (higher = thicker edge)
-- **Node color**: Social group (Green=Family, Blue=Friends, Purple=Work, Orange=Self)
+- **Node color**: Social group (Green=Family, Blue=Friends, Purple=Work, Orange=Self, Yellow=Neighbor)
 
 ## Key Insight
 The visualization shows that "Me" is the central hub, but FriendA and Partner act as critical bridges between the Friend group and Family/Work groups. Without these bridging nodes, the network would fragment into isolated clusters.
